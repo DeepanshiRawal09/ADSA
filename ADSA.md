@@ -2,6 +2,7 @@
 
 ---
 
+
 - [169. Majority Element](https://leetcode.com/problems/majority-element/submissions/1770663199/)
 - [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/1770664848/)
 - [16. 3Sum Closest](https://leetcode.com/problems/3sum-closest/submissions/1770668701/)
